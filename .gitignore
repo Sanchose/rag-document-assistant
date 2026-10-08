@@ -118,6 +118,7 @@ ipython_config.py
 .pdm-python
 .pdm-build/
 .chroma_db/
+data/*.pdf
 
 # pixi
 #   Similar to Pipfile.lock, it is generally recommended to include pixi.lock in version control.
@@ -219,3 +220,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/*.pdf
